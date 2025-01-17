@@ -15,15 +15,18 @@ Analysis of Customer Churn in a Telecommunications Company
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20info.png)
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20shape.png)
 
-## ** Methodology:**
+## **Methodology:**
+
 <br><b>1. Data Exploration and Cleaning: :</b></br>
 *	Load and explore the dataset, identifying relevant variables and potential data quality issues.
 *	Clean the data by handling missing values, outliers, and inconsistencies.
+
 <br><b>2. Exploratory Data Analysis (EDA): :</b></br>
 *	Conduct univariate and bivariate analysis to understand the distribution of key variables and their relationships with churn.
 *	Visualizations: 
 *	Histograms: Analyze the distribution of values in various columns like monthly charges, total charges, and other numerical variables.
 *	Bar charts: Explore the relationship between churn and categorical variables like paperless billing, internet service, and contract type.
+
 <br><b>3.  Insights and Recommendations: :</b></br>
 *	Analyze the results of the EDA and modeling to identify key drivers of churn.
 *	Develop actionable recommendations for improving customer retention, such as: 
@@ -37,19 +40,22 @@ Analysis of Customer Churn in a Telecommunications Company
 •	Presentation summarizing the key findings and recommendations.
 
 ## **Key Performance Indicators (KPIs):**
+
 <br><b>A. Churn Rate: :</b></br>
 * Percentage of customers who stop using a company's product or service within a specific timeframe.
 * Formula: (Number of customers lost / Total number of customers at the start of the period) * 100
 *  Target: Aim to minimize churn rate over time.
+
 <br><b>B. Customer Retention Rate (CRR): :</b></br>
 * The percentage of customers who remain with a company over a specific period.
 *	Formula: (Number of customers retained / Total number of customers at the start of the period) * 100
 *	Target: Maximize CRR to reduce churn and improve profitability.
+
 <br><b>A. Specific to Paperless Billing: :</b></br>
 *	Churn Rate for Paperless Billing Customers: Churn rate specifically for customers using paperless billing.
 *	Rate for Non-Paperless Billing Customers: Churn rate for customers who still prefer paper bills.
 
-## ** Future Improvements :**
+## **Future Improvements :**
 
 *	Churn Prediction Modeling: (Improvements- building ML Predictive Model )
 
