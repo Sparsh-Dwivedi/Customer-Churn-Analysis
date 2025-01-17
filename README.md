@@ -12,6 +12,7 @@ Analysis of Customer Churn in a Telecommunications Company
 
 ## **Data**
 <b><i> The project utilizes a dataset containing information about customer demographics, service usage, and churn status for a telecommunications company.</i></b>
+
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20info.png)
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20shape.png)
 
