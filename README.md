@@ -57,13 +57,13 @@ Analysis of Customer Churn in a Telecommunications Company
 
 ## **Future Improvements :**
 
-*	Churn Prediction Modeling: (Improvements- building ML Predictive Model )
+<br><b>BChurn Prediction Modeling: (Improvements- building ML Predictive Model )</br></b>
 
 *	Develop and evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
 
 * Assess model performance using metrics like accuracy, precision, recall, and F1-score.
 
-<br><b>A. Project deliverables</br></b>
+<br><b>B. Project deliverables</br></b>
 
 *	Predictive churn models and their evaluation results
 
@@ -71,14 +71,5 @@ Analysis of Customer Churn in a Telecommunications Company
 
 top 3 most ordered pizza types based on revenue for each pizza category.
 
-## **Insights Generated from Questions**
-# Basic Insights:
-<br><b>1.	Total Orders Placed:</b></br>
-*	Result: 21,350 orders 
-*	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
-
-<br><b>2.	Total Revenue Generated:</b></br>
-*	Result: $ 817,860.05
-*	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
 
 
