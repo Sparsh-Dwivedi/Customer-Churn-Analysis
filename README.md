@@ -1,3 +1,77 @@
 # Customer-Churn-Analysis of a Telecommunication Company
 
 Link to (i.pynb file) <a href="https://colab.research.google.com/drive/1rmcuJKS5YLlgjtRknHP6wlqjXln7EziW?usp=sharing">Telecomm Customer-Churn-Analysis Project File:</a>
+
+
+## ** Project Title:**
+Analysis of Customer Churn in a Telecommunications Company
+
+## **Objective**
+<b><i>" To identify key factors that contribute to customer churn and develop strategies to improve customer retention."</i></b>
+
+## **Data**
+<b><i> The project utilizes a dataset containing information about customer demographics, service usage, and churn status for a telecommunications company. .</i></b>
+![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20info.png)
+![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20shape.png)
+
+## ** Methodology:**
+1.	Data Exploration and Cleaning:
+o	Load and explore the dataset, identifying relevant variables and potential data quality issues.
+o	Clean the data by handling missing values, outliers, and inconsistencies.
+2.	Exploratory Data Analysis (EDA):
+o	Conduct univariate and bivariate analysis to understand the distribution of key variables and their relationships with churn.
+o	Visualizations: 
+	Histograms: Analyze the distribution of values in various columns like monthly charges, total charges, and other numerical variables.
+	Bar charts: Explore the relationship between churn and categorical variables like paperless billing, internet service, and contract type.
+3.	Insights and Recommendations:
+o	Analyze the results of the EDA and modeling to identify key drivers of churn.
+o	Develop actionable recommendations for improving customer retention, such as: 
+	Targeted retention campaigns for high-value customers.
+	Pricing optimizations and promotions to incentivize customer loyalty.
+	Service enhancements to improve customer satisfaction.
+	Proactive outreach to customers at risk of churn.
+
+4.	 Project Deliverables:
+•	Data analysis report with findings and visualizations.
+•	Presentation summarizing the key findings and recommendations.
+
+5.	Key Performance Indicators (KPIs):
+A.	Churn Rate:
+o	Percentage of customers who stop using a company's product or service within a specific timeframe.
+o	Formula: (Number of customers lost / Total number of customers at the start of the period) * 100
+o	Target: Aim to minimize churn rate over time.
+B.	Customer Retention Rate (CRR):
+•	The percentage of customers who remain with a company over a specific period.
+•	Formula: (Number of customers retained / Total number of customers at the start of the period) * 100
+•	Target: Maximize CRR to reduce churn and improve profitability.
+Specific to Paperless Billing: 
+•	Churn Rate for Paperless Billing Customers: Churn rate specifically for customers using paperless billing.
+Churn Rate for Non-Paperless Billing Customers: Churn rate for customers who still prefer paper bills.
+
+6.      Future Improvements
+
+•	  Churn Prediction Modeling: (Improvements- building ML Predictive Model )
+•	Develop and evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
+•	Assess model performance using metrics like accuracy, precision, recall, and F1-score.
+
+Project deliverables
+•	Predictive churn models and their evaluation results
+7.	Determine the distribution of orders by hour of the day.
+
+<br><b>Probing R3:</b></br>
+
+11.	Calculate the percentage contribution of each pizza type to total revenue.
+12.	Analyze the cumulative revenue generated over time.
+13.	Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+## **Insights Generated from Questions**
+# Basic Insights:
+<br><b>1.	Total Orders Placed:</b></br>
+*	Result: 21,350 orders 
+*	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
+
+<br><b>2.	Total Revenue Generated:</b></br>
+*	Result: $ 817,860.05
+*	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
+
+
