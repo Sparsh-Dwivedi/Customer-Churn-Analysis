@@ -57,7 +57,7 @@ Analysis of Customer Churn in a Telecommunications Company
 
 ## **Future Improvements :**
 
-<br><b>BChurn Prediction Modeling: (Improvements- building ML Predictive Model )</br></b>
+<br><b>A. Churn Prediction Modeling: (Improvements- building ML Predictive Model )</br></b>
 
 *	Develop and evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
 
