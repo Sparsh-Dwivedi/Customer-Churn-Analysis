@@ -32,11 +32,11 @@ Analysis of Customer Churn in a Telecommunications Company
 •	Service enhancements to improve customer satisfaction.
 •	Proactive outreach to customers at risk of churn.
 
-## ** Project Deliverables: **
+## **Project Deliverables:**
 •	Data analysis report with findings and visualizations.
 •	Presentation summarizing the key findings and recommendations.
 
-## ** Key Performance Indicators (KPIs): :**
+## **Key Performance Indicators (KPIs):**
 <br><b>A. Churn Rate: :</b></br>
 •	Percentage of customers who stop using a company's product or service within a specific timeframe.
 •	Formula: (Number of customers lost / Total number of customers at the start of the period) * 100
@@ -48,16 +48,20 @@ Analysis of Customer Churn in a Telecommunications Company
 <br><b>A. Specific to Paperless Billing: :</b></br>
 
 •	Churn Rate for Paperless Billing Customers: Churn rate specifically for customers using paperless billing.
-•	Churn Rate for Non-Paperless Billing Customers: Churn rate for customers who still prefer paper bills.
+•	Rate for Non-Paperless Billing Customers: Churn rate for customers who still prefer paper bills.
 
 ## ** Future Improvements :**
 
 •	  Churn Prediction Modeling: (Improvements- building ML Predictive Model )
+
 •	Develop and evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
+
 •	Assess model performance using metrics like accuracy, precision, recall, and F1-score.
 
-A. Project deliverables
+<br><b>A. Project deliverables</br></b>
+
 •	Predictive churn models and their evaluation results
+
 •	Determine the distribution of orders by hour of the day.
 
 top 3 most ordered pizza types based on revenue for each pizza category.
@@ -71,8 +75,5 @@ top 3 most ordered pizza types based on revenue for each pizza category.
 <br><b>2.	Total Revenue Generated:</b></br>
 *	Result: $ 817,860.05
 *	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
-
-
-
 
 
