@@ -1,7 +1,7 @@
 # Analysis of Customer Churn in a Telecommunications Company
 
 Link to (i.pynb file) <a href="https://colab.research.google.com/drive/1rmcuJKS5YLlgjtRknHP6wlqjXln7EziW?usp=sharing">Telecomm Customer-Churn-Analysis Project File:</a>
-<br>Link to <a href="https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Final%20Report.pdf">Project Report</a></br>
+<br>Link to <a href="https://drive.google.com/file/d/16zIyi1RdVd6az5AKbJ_epE11XVEd4oqo/view?usp=sharing">Project Report</a></br>
 
 ## **Project Title:**
 Analysis of Customer Churn in a Telecommunications Company
