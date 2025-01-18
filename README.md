@@ -69,7 +69,6 @@ Analysis of Customer Churn in a Telecommunications Company
 
 *	Determine the distribution of orders by hour of the day.
 
-top 3 most ordered pizza types based on revenue for each pizza category.
 
 
 
