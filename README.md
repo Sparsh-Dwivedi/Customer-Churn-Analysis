@@ -7,10 +7,10 @@ Link to (i.pynb file) <a href="https://colab.research.google.com/drive/1rmcuJKS5
 Analysis of Customer Churn in a Telecommunications Company
 
 ## **Objective**
-<b><i>" To identify key factors that contribute to customer churn and develop strategies to improve customer retention."</i></b>
+<b><i>" To identify key factors that contribute to customer churn & develop strategies to improve customer retention."</i></b>
 
 ## **Data**
-<b><i> The project utilizes a dataset containing information about customer demographics, service usage, and churn status for a telecommunications company.</i></b>
+<b><i> The project utilizes a dataset containing information about customer demographics, service usage, & churn status for a telecommunications company.</i></b>
 
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20info.png)
 ![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Customer-Churn-Analysis/blob/main/Report%20visualizations/Dataset%20shape.png)
