@@ -22,7 +22,7 @@ Analysis of Customer Churn in a Telecommunications Company
 *	Clean the data by handling missing values, outliers, and inconsistencies.
 
 <br><b>2. Exploratory Data Analysis (EDA): :</b></br>
-*	Conduct univariate and bivariate analysis to understand the distribution of key variables and their relationships with churn.
+*	Conduct univariate & bivariate analysis to understand the distribution of key variables and their relationships with churn.
 *	Visualizations: 
 *	Histograms: Analyze the distribution of values in various columns like monthly charges, total charges, and other numerical variables.
 *	Bar charts: Explore the relationship between churn and categorical variables like paperless billing, internet service, and contract type.
@@ -59,7 +59,7 @@ Analysis of Customer Churn in a Telecommunications Company
 
 <br><b>A. Churn Prediction Modeling: (Improvements- building ML Predictive Model )</br></b>
 
-*	Develop and evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
+*	Develop & evaluate predictive models (e.g., logistic regression, decision tree, random forest) to predict customer churn based on the identified factors.
 
 * Assess model performance using metrics like accuracy, precision, recall, and F1-score.
 
