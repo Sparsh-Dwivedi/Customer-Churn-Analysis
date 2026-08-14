@@ -31,7 +31,7 @@ Analysis of Customer Churn in a Telecommunications Company
 *	Analyze the results of the EDA and modeling to identify key drivers of churn.
 *	Develop actionable recommendations for improving customer retention, such as: 
 *	Targeted retention campaigns for high-value customers.
-*	optimizations and promotions to incentivize customer loyalty.
+*	optimizations & promotions to incentivize customer loyalty.
 *	Service enhancements to improve customer satisfaction.
 *	Proactive outreach to customers at risk of churn.
 
